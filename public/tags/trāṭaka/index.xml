@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trāṭaka on riselife.org</title>
+    <link>http://localhost:8090/tags/tr%C4%81%E1%B9%ADaka/</link>
+    <description>Recent content in Trāṭaka on riselife.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Janani Dhinakaran - All rights reserved</copyright>
+    <lastBuildDate>Fri, 05 May 2017 17:56:57 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:8090/tags/tr%C4%81%E1%B9%ADaka/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trāṭaka</title>
+      <link>http://localhost:8090/blog/2017-05-05-trataka/</link>
+      <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
+      
+      <guid>http://localhost:8090/blog/2017-05-05-trataka/</guid>
+      <description>Meditation is becoming very popular nowadays but it is mainly mindfulness which is getting a lot of the attention. Trāṭaka is a less known type of meditation which appears in stories such as &amp;#8216;The Monk who Sold his Ferrari&amp;#8217; by Rabin Sharma and &amp;#8216;The Wonderful Story of Henry Sugar&amp;#8217; by Roald Dahl.</description>
+    </item>
+    
+  </channel>
+</rss>

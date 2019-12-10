@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on riselife.org</title>
+    <link>http://localhost:8090/categories/</link>
+    <description>Recent content in Categories on riselife.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Janani Dhinakaran - All rights reserved</copyright>
+    <lastBuildDate>Sat, 24 Jun 2017 06:07:14 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:8090/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Health</title>
+      <link>http://localhost:8090/categories/health/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/categories/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific studies</title>
+      <link>http://localhost:8090/categories/scientific-studies/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/categories/scientific-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pranayama</title>
+      <link>http://localhost:8090/categories/pranayama/</link>
+      <pubDate>Fri, 12 May 2017 18:15:36 +0000</pubDate>
+      
+      <guid>http://localhost:8090/categories/pranayama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoga</title>
+      <link>http://localhost:8090/categories/yoga/</link>
+      <pubDate>Fri, 12 May 2017 18:15:36 +0000</pubDate>
+      
+      <guid>http://localhost:8090/categories/yoga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meditation</title>
+      <link>http://localhost:8090/categories/meditation/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
+      
+      <guid>http://localhost:8090/categories/meditation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

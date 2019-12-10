@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gratitude on riselife.org</title>
+    <link>http://localhost:8090/tags/gratitude/</link>
+    <description>Recent content in gratitude on riselife.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Janani Dhinakaran - All rights reserved</copyright>
+    <lastBuildDate>Sat, 24 Jun 2017 06:07:14 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:8090/tags/gratitude/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mind Body Connection: Considering the Evidence</title>
+      <link>http://localhost:8090/blog/2017-06-24-mind-body-connection-considering-the-evidence/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/blog/2017-06-24-mind-body-connection-considering-the-evidence/</guid>
+      <description>The following video contains a wealth of information on mindbody health with an emphasis on cardiovascular health (the speaker, Dr James Kneller, is a cardiologist).</description>
+    </item>
+    
+  </channel>
+</rss>

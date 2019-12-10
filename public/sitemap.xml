@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:8090/talks-and-workshops/</loc>
+    <lastmod>2017-06-24T09:51:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/</loc>
+    <lastmod>2017-06-24T09:51:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/blog/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/categories/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/categories/health/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/blog/2017-06-24-mind-body-connection-considering-the-evidence/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/categories/scientific-studies/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/awe/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/broken-heart-syndrome/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/cardiologist/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/depression/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/divorce/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/giving/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/gratitude/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/gut-health/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/heart-health/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/inflammation/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/intuition/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/laughter/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/living-longer/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/mind-body-connection/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/mindbody/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/optimism/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/stress/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/blog/2017-05-12-cool-down-with-sheetali-breathing/</loc>
+    <lastmod>2017-05-12T18:15:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/categories/pranayama/</loc>
+    <lastmod>2017-05-12T18:15:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/categories/yoga/</loc>
+    <lastmod>2017-05-12T18:15:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/publications/</loc>
+    <lastmod>2017-05-05T19:10:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/meditation/</loc>
+    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/tr%C4%81%E1%B9%ADaka/</loc>
+    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/blog/2017-05-05-trataka/</loc>
+    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/candle/</loc>
+    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/concentration/</loc>
+    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/gaze/</loc>
+    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/psychological-illness/</loc>
+    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/tratka/</loc>
+    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/blog/2016-07-23-shortcomings-of-the-western-medical-system/</loc>
+    <lastmod>2016-07-23T06:47:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/eeg/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/health/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/blog/2016-06-23-introduction-to-pranayama/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/pranayama/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/alternative-nostril-breathing/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/belly-breathing/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/blood-pressure/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/breathing-exercises/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/cardiovascular/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/chest-breathing/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/clavicular-breathing/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/diaphragm/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/heart-rate-variability/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/intercostal-muscles/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/kapalabhati/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/kriya/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/lungs/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/metabolism/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/nadi-shuddhi/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/nasika-mudra/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/n%C4%81di-shodhana/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/parasympathetic-nervous-system/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/residual-volume/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/respiratory/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/respiratory-system/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/sectional-breathing/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/sympathetic-nervous-system/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/tidal-volume/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/total-lung-capacity/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/yogic-breathing/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/adhd/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/categories/meditation/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/ptsd/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/scientific-studies/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/blog/2016-05-26-the-benefits-of-meditation/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/anxiety/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/autoimmune/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/binge-eating/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/cardiovascular-disease/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/chronic-pain/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/eating-disorders/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/fibromyalgia/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/hypertension/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/obesity/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/who/</loc>
+    <lastmod>2016-05-05T23:12:30+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/blog/2016-05-05-what-does-it-mean-to-be-healthy/</loc>
+    <lastmod>2016-05-05T23:12:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/sickness/</loc>
+    <lastmod>2016-05-05T23:12:30+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/tags/world-health-organisation/</loc>
+    <lastmod>2016-05-05T23:12:30+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/testimonials/</loc>
+    <lastmod>2016-04-10T23:32:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/what-i-do/</loc>
+    <lastmod>2016-04-10T22:10:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8090/about/</loc>
+    <lastmod>2016-01-29T01:53:46+00:00</lastmod>
+  </url>
+  
+</urlset>

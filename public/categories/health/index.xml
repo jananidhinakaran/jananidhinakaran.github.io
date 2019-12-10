@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health on riselife.org</title>
+    <link>http://localhost:8090/categories/health/</link>
+    <description>Recent content in Health on riselife.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Janani Dhinakaran - All rights reserved</copyright>
+    <lastBuildDate>Sat, 24 Jun 2017 06:07:14 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:8090/categories/health/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mind Body Connection: Considering the Evidence</title>
+      <link>http://localhost:8090/blog/2017-06-24-mind-body-connection-considering-the-evidence/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/blog/2017-06-24-mind-body-connection-considering-the-evidence/</guid>
+      <description>The following video contains a wealth of information on mindbody health with an emphasis on cardiovascular health (the speaker, Dr James Kneller, is a cardiologist).</description>
+    </item>
+    
+    <item>
+      <title>Cool down with Sheetali Breathing</title>
+      <link>http://localhost:8090/blog/2017-05-12-cool-down-with-sheetali-breathing/</link>
+      <pubDate>Fri, 12 May 2017 18:15:36 +0000</pubDate>
+      
+      <guid>http://localhost:8090/blog/2017-05-12-cool-down-with-sheetali-breathing/</guid>
+      <description>Many more people practice Kapalabhati, the breath of fire, than Sheetali, the cooling breath. Sheetal means cool and soothing in Sanskrit and that is the effect it has on the mind and body.</description>
+    </item>
+    
+    <item>
+      <title>Trāṭaka</title>
+      <link>http://localhost:8090/blog/2017-05-05-trataka/</link>
+      <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
+      
+      <guid>http://localhost:8090/blog/2017-05-05-trataka/</guid>
+      <description>Meditation is becoming very popular nowadays but it is mainly mindfulness which is getting a lot of the attention. Trāṭaka is a less known type of meditation which appears in stories such as &amp;#8216;The Monk who Sold his Ferrari&amp;#8217; by Rabin Sharma and &amp;#8216;The Wonderful Story of Henry Sugar&amp;#8217; by Roald Dahl.</description>
+    </item>
+    
+    <item>
+      <title>What’s wrong with the Western Medical System</title>
+      <link>http://localhost:8090/blog/2016-07-23-shortcomings-of-the-western-medical-system/</link>
+      <pubDate>Sat, 23 Jul 2016 06:47:11 +0000</pubDate>
+      
+      <guid>http://localhost:8090/blog/2016-07-23-shortcomings-of-the-western-medical-system/</guid>
+      <description>Western medicine has done wonders for humanity. It plays a very important role in saving lives in emergencies, uses the best technology available to diagnose people&amp;#8217;s health issues and bases much of it&amp;#8217;s progress on medical and scientific research.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Pranayama</title>
+      <link>http://localhost:8090/blog/2016-06-23-introduction-to-pranayama/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/blog/2016-06-23-introduction-to-pranayama/</guid>
+      <description>Prana can be translated to mean breath, though in subtle terms it is also associated with &amp;#8216;life force&amp;#8217;, &amp;#8216;vital energy&amp;#8217;. Ayama means control. Together, Pranayama means control of breath.</description>
+    </item>
+    
+    <item>
+      <title>The Benefits of Meditation</title>
+      <link>http://localhost:8090/blog/2016-05-26-the-benefits-of-meditation/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
+      
+      <guid>http://localhost:8090/blog/2016-05-26-the-benefits-of-meditation/</guid>
+      <description>The claim that meditation is good for you and can help improve or enhance one&amp;#8217;s mental and physical health is quite a remarkable claim. How can sitting still and paying attention to one&amp;#8217;s breath have such an enormous impact on so many conditions we suffer from?</description>
+    </item>
+    
+    <item>
+      <title>What does it mean to be healthy?</title>
+      <link>http://localhost:8090/blog/2016-05-05-what-does-it-mean-to-be-healthy/</link>
+      <pubDate>Thu, 05 May 2016 23:12:30 +0000</pubDate>
+      
+      <guid>http://localhost:8090/blog/2016-05-05-what-does-it-mean-to-be-healthy/</guid>
+      <description>When I ask people asked what they think it means to be healthy, I often get responses like: &amp;#8220;It&amp;#8217;s when you&amp;#8217;re not sick&amp;#8221; &amp;#8220;To be fit&amp;#8221; &amp;#8220;When all your parts are working properly&amp;#8221; These definitions seem focused on one&amp;#8217;s physical body and see health as a state in which going to a doctor is not necessary.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on riselife.org</title>
+    <link>http://localhost:8090/tags/</link>
+    <description>Recent content in Tags on riselife.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Janani Dhinakaran - All rights reserved</copyright>
+    <lastBuildDate>Sat, 24 Jun 2017 06:07:14 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:8090/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>awe</title>
+      <link>http://localhost:8090/tags/awe/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/awe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>broken heart syndrome</title>
+      <link>http://localhost:8090/tags/broken-heart-syndrome/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/broken-heart-syndrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cardiologist</title>
+      <link>http://localhost:8090/tags/cardiologist/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/cardiologist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>depression</title>
+      <link>http://localhost:8090/tags/depression/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>divorce</title>
+      <link>http://localhost:8090/tags/divorce/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/divorce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>giving</title>
+      <link>http://localhost:8090/tags/giving/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/giving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gratitude</title>
+      <link>http://localhost:8090/tags/gratitude/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/gratitude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gut health</title>
+      <link>http://localhost:8090/tags/gut-health/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/gut-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heart health</title>
+      <link>http://localhost:8090/tags/heart-health/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/heart-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inflammation</title>
+      <link>http://localhost:8090/tags/inflammation/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/inflammation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intuition</title>
+      <link>http://localhost:8090/tags/intuition/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/intuition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>laughter</title>
+      <link>http://localhost:8090/tags/laughter/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/laughter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>living longer</title>
+      <link>http://localhost:8090/tags/living-longer/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/living-longer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mind body connection</title>
+      <link>http://localhost:8090/tags/mind-body-connection/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/mind-body-connection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mindbody</title>
+      <link>http://localhost:8090/tags/mindbody/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/mindbody/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optimism</title>
+      <link>http://localhost:8090/tags/optimism/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/optimism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stress</title>
+      <link>http://localhost:8090/tags/stress/</link>
+      <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meditation</title>
+      <link>http://localhost:8090/tags/meditation/</link>
+      <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/meditation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trāṭaka</title>
+      <link>http://localhost:8090/tags/tr%C4%81%E1%B9%ADaka/</link>
+      <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/tr%C4%81%E1%B9%ADaka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>candle</title>
+      <link>http://localhost:8090/tags/candle/</link>
+      <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/candle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>concentration</title>
+      <link>http://localhost:8090/tags/concentration/</link>
+      <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/concentration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gaze</title>
+      <link>http://localhost:8090/tags/gaze/</link>
+      <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/gaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psychological illness</title>
+      <link>http://localhost:8090/tags/psychological-illness/</link>
+      <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/psychological-illness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tratka</title>
+      <link>http://localhost:8090/tags/tratka/</link>
+      <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/tratka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG</title>
+      <link>http://localhost:8090/tags/eeg/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/eeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>http://localhost:8090/tags/health/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pranayama</title>
+      <link>http://localhost:8090/tags/pranayama/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/pranayama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alternative nostril breathing</title>
+      <link>http://localhost:8090/tags/alternative-nostril-breathing/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/alternative-nostril-breathing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>belly breathing</title>
+      <link>http://localhost:8090/tags/belly-breathing/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/belly-breathing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blood pressure</title>
+      <link>http://localhost:8090/tags/blood-pressure/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/blood-pressure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>breathing exercises</title>
+      <link>http://localhost:8090/tags/breathing-exercises/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/breathing-exercises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cardiovascular</title>
+      <link>http://localhost:8090/tags/cardiovascular/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/cardiovascular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chest breathing</title>
+      <link>http://localhost:8090/tags/chest-breathing/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/chest-breathing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clavicular breathing</title>
+      <link>http://localhost:8090/tags/clavicular-breathing/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/clavicular-breathing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diaphragm</title>
+      <link>http://localhost:8090/tags/diaphragm/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/diaphragm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heart rate variability</title>
+      <link>http://localhost:8090/tags/heart-rate-variability/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/heart-rate-variability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intercostal muscles</title>
+      <link>http://localhost:8090/tags/intercostal-muscles/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/intercostal-muscles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kapalabhati</title>
+      <link>http://localhost:8090/tags/kapalabhati/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/kapalabhati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kriya</title>
+      <link>http://localhost:8090/tags/kriya/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/kriya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lungs</title>
+      <link>http://localhost:8090/tags/lungs/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/lungs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metabolism</title>
+      <link>http://localhost:8090/tags/metabolism/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/metabolism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nadi shuddhi</title>
+      <link>http://localhost:8090/tags/nadi-shuddhi/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/nadi-shuddhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nasika mudra</title>
+      <link>http://localhost:8090/tags/nasika-mudra/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/nasika-mudra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nādi shodhana</title>
+      <link>http://localhost:8090/tags/n%C4%81di-shodhana/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/n%C4%81di-shodhana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parasympathetic nervous system</title>
+      <link>http://localhost:8090/tags/parasympathetic-nervous-system/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/parasympathetic-nervous-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>residual volume</title>
+      <link>http://localhost:8090/tags/residual-volume/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/residual-volume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>respiratory</title>
+      <link>http://localhost:8090/tags/respiratory/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/respiratory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>respiratory system</title>
+      <link>http://localhost:8090/tags/respiratory-system/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/respiratory-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sectional breathing</title>
+      <link>http://localhost:8090/tags/sectional-breathing/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/sectional-breathing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sympathetic nervous system</title>
+      <link>http://localhost:8090/tags/sympathetic-nervous-system/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/sympathetic-nervous-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tidal volume</title>
+      <link>http://localhost:8090/tags/tidal-volume/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/tidal-volume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>total lung capacity</title>
+      <link>http://localhost:8090/tags/total-lung-capacity/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/total-lung-capacity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yogic breathing</title>
+      <link>http://localhost:8090/tags/yogic-breathing/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/yogic-breathing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADHD</title>
+      <link>http://localhost:8090/tags/adhd/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/adhd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PTSD</title>
+      <link>http://localhost:8090/tags/ptsd/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/ptsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific studies</title>
+      <link>http://localhost:8090/tags/scientific-studies/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/scientific-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anxiety</title>
+      <link>http://localhost:8090/tags/anxiety/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/anxiety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>autoimmune</title>
+      <link>http://localhost:8090/tags/autoimmune/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/autoimmune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>binge eating</title>
+      <link>http://localhost:8090/tags/binge-eating/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/binge-eating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cardiovascular disease</title>
+      <link>http://localhost:8090/tags/cardiovascular-disease/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/cardiovascular-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chronic pain</title>
+      <link>http://localhost:8090/tags/chronic-pain/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/chronic-pain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eating disorders</title>
+      <link>http://localhost:8090/tags/eating-disorders/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/eating-disorders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fibromyalgia</title>
+      <link>http://localhost:8090/tags/fibromyalgia/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/fibromyalgia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hypertension</title>
+      <link>http://localhost:8090/tags/hypertension/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/hypertension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>obesity</title>
+      <link>http://localhost:8090/tags/obesity/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/obesity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WHO</title>
+      <link>http://localhost:8090/tags/who/</link>
+      <pubDate>Thu, 05 May 2016 23:12:30 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/who/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sickness</title>
+      <link>http://localhost:8090/tags/sickness/</link>
+      <pubDate>Thu, 05 May 2016 23:12:30 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/sickness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>world health organisation</title>
+      <link>http://localhost:8090/tags/world-health-organisation/</link>
+      <pubDate>Thu, 05 May 2016 23:12:30 +0000</pubDate>
+      
+      <guid>http://localhost:8090/tags/world-health-organisation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

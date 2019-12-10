@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>binge eating on riselife.org</title>
+    <link>http://localhost:8090/tags/binge-eating/</link>
+    <description>Recent content in binge eating on riselife.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Janani Dhinakaran - All rights reserved</copyright>
+    <lastBuildDate>Thu, 26 May 2016 00:28:28 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:8090/tags/binge-eating/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Benefits of Meditation</title>
+      <link>http://localhost:8090/blog/2016-05-26-the-benefits-of-meditation/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
+      
+      <guid>http://localhost:8090/blog/2016-05-26-the-benefits-of-meditation/</guid>
+      <description>The claim that meditation is good for you and can help improve or enhance one&amp;#8217;s mental and physical health is quite a remarkable claim. How can sitting still and paying attention to one&amp;#8217;s breath have such an enormous impact on so many conditions we suffer from?</description>
+    </item>
+    
+  </channel>
+</rss>
