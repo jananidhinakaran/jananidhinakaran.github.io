@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>riselife.org</title>
-    <link>http://localhost:8090/</link>
+    <link>https://riselife.org/</link>
     <description>Recent content on riselife.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Janani Dhinakaran - All rights reserved</copyright>
     <lastBuildDate>Sat, 24 Jun 2017 09:51:04 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:8090/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://riselife.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Talks and Workshops</title>
-      <link>http://localhost:8090/talks-and-workshops/</link>
+      <link>https://riselife.org/talks-and-workshops/</link>
       <pubDate>Sat, 24 Jun 2017 09:51:04 +0000</pubDate>
       
-      <guid>http://localhost:8090/talks-and-workshops/</guid>
+      <guid>https://riselife.org/talks-and-workshops/</guid>
       <description>I give talks to companies that are interested in increasing the wellness and productivity of their employees. I am also invited to health business establishments to engage their client base in techniques and information which can add to their health.</description>
     </item>
     
     <item>
       <title>Mind Body Connection: Considering the Evidence</title>
-      <link>http://localhost:8090/blog/2017-06-24-mind-body-connection-considering-the-evidence/</link>
+      <link>https://riselife.org/blog/2017-06-24-mind-body-connection-considering-the-evidence/</link>
       <pubDate>Sat, 24 Jun 2017 06:07:14 +0000</pubDate>
       
-      <guid>http://localhost:8090/blog/2017-06-24-mind-body-connection-considering-the-evidence/</guid>
+      <guid>https://riselife.org/blog/2017-06-24-mind-body-connection-considering-the-evidence/</guid>
       <description>The following video contains a wealth of information on mindbody health with an emphasis on cardiovascular health (the speaker, Dr James Kneller, is a cardiologist).</description>
     </item>
     
     <item>
       <title>Cool down with Sheetali Breathing</title>
-      <link>http://localhost:8090/blog/2017-05-12-cool-down-with-sheetali-breathing/</link>
+      <link>https://riselife.org/blog/2017-05-12-cool-down-with-sheetali-breathing/</link>
       <pubDate>Fri, 12 May 2017 18:15:36 +0000</pubDate>
       
-      <guid>http://localhost:8090/blog/2017-05-12-cool-down-with-sheetali-breathing/</guid>
+      <guid>https://riselife.org/blog/2017-05-12-cool-down-with-sheetali-breathing/</guid>
       <description>Many more people practice Kapalabhati, the breath of fire, than Sheetali, the cooling breath. Sheetal means cool and soothing in Sanskrit and that is the effect it has on the mind and body.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://localhost:8090/publications/</link>
+      <link>https://riselife.org/publications/</link>
       <pubDate>Fri, 05 May 2017 19:10:21 +0000</pubDate>
       
-      <guid>http://localhost:8090/publications/</guid>
+      <guid>https://riselife.org/publications/</guid>
       <description>https://www.themindfulword.org/2017/breathe-live-yoga-practice/
 &amp;nbsp;
 Living Fearlessly: Building inner strength through self-reflection</description>
@@ -52,73 +52,73 @@ Living Fearlessly: Building inner strength through self-reflection</description>
     
     <item>
       <title>Trāṭaka</title>
-      <link>http://localhost:8090/blog/2017-05-05-trataka/</link>
+      <link>https://riselife.org/blog/2017-05-05-trataka/</link>
       <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
       
-      <guid>http://localhost:8090/blog/2017-05-05-trataka/</guid>
+      <guid>https://riselife.org/blog/2017-05-05-trataka/</guid>
       <description>Meditation is becoming very popular nowadays but it is mainly mindfulness which is getting a lot of the attention. Trāṭaka is a less known type of meditation which appears in stories such as &amp;#8216;The Monk who Sold his Ferrari&amp;#8217; by Rabin Sharma and &amp;#8216;The Wonderful Story of Henry Sugar&amp;#8217; by Roald Dahl.</description>
     </item>
     
     <item>
       <title>What’s wrong with the Western Medical System</title>
-      <link>http://localhost:8090/blog/2016-07-23-shortcomings-of-the-western-medical-system/</link>
+      <link>https://riselife.org/blog/2016-07-23-shortcomings-of-the-western-medical-system/</link>
       <pubDate>Sat, 23 Jul 2016 06:47:11 +0000</pubDate>
       
-      <guid>http://localhost:8090/blog/2016-07-23-shortcomings-of-the-western-medical-system/</guid>
+      <guid>https://riselife.org/blog/2016-07-23-shortcomings-of-the-western-medical-system/</guid>
       <description>Western medicine has done wonders for humanity. It plays a very important role in saving lives in emergencies, uses the best technology available to diagnose people&amp;#8217;s health issues and bases much of it&amp;#8217;s progress on medical and scientific research.</description>
     </item>
     
     <item>
       <title>Introduction to Pranayama</title>
-      <link>http://localhost:8090/blog/2016-06-23-introduction-to-pranayama/</link>
+      <link>https://riselife.org/blog/2016-06-23-introduction-to-pranayama/</link>
       <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
       
-      <guid>http://localhost:8090/blog/2016-06-23-introduction-to-pranayama/</guid>
+      <guid>https://riselife.org/blog/2016-06-23-introduction-to-pranayama/</guid>
       <description>Prana can be translated to mean breath, though in subtle terms it is also associated with &amp;#8216;life force&amp;#8217;, &amp;#8216;vital energy&amp;#8217;. Ayama means control. Together, Pranayama means control of breath.</description>
     </item>
     
     <item>
       <title>The Benefits of Meditation</title>
-      <link>http://localhost:8090/blog/2016-05-26-the-benefits-of-meditation/</link>
+      <link>https://riselife.org/blog/2016-05-26-the-benefits-of-meditation/</link>
       <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
       
-      <guid>http://localhost:8090/blog/2016-05-26-the-benefits-of-meditation/</guid>
+      <guid>https://riselife.org/blog/2016-05-26-the-benefits-of-meditation/</guid>
       <description>The claim that meditation is good for you and can help improve or enhance one&amp;#8217;s mental and physical health is quite a remarkable claim. How can sitting still and paying attention to one&amp;#8217;s breath have such an enormous impact on so many conditions we suffer from?</description>
     </item>
     
     <item>
       <title>What does it mean to be healthy?</title>
-      <link>http://localhost:8090/blog/2016-05-05-what-does-it-mean-to-be-healthy/</link>
+      <link>https://riselife.org/blog/2016-05-05-what-does-it-mean-to-be-healthy/</link>
       <pubDate>Thu, 05 May 2016 23:12:30 +0000</pubDate>
       
-      <guid>http://localhost:8090/blog/2016-05-05-what-does-it-mean-to-be-healthy/</guid>
+      <guid>https://riselife.org/blog/2016-05-05-what-does-it-mean-to-be-healthy/</guid>
       <description>When I ask people asked what they think it means to be healthy, I often get responses like: &amp;#8220;It&amp;#8217;s when you&amp;#8217;re not sick&amp;#8221; &amp;#8220;To be fit&amp;#8221; &amp;#8220;When all your parts are working properly&amp;#8221; These definitions seem focused on one&amp;#8217;s physical body and see health as a state in which going to a doctor is not necessary.</description>
     </item>
     
     <item>
       <title>Testimonials</title>
-      <link>http://localhost:8090/testimonials/</link>
+      <link>https://riselife.org/testimonials/</link>
       <pubDate>Sun, 10 Apr 2016 23:32:57 +0000</pubDate>
       
-      <guid>http://localhost:8090/testimonials/</guid>
+      <guid>https://riselife.org/testimonials/</guid>
       <description>&amp;#8220;Thank you, Janani! The breathing exercises you taught me really helped me stay calm during my maths exam. I didn&amp;#8217;t go blank as I always do.</description>
     </item>
     
     <item>
       <title>What I Do</title>
-      <link>http://localhost:8090/what-i-do/</link>
+      <link>https://riselife.org/what-i-do/</link>
       <pubDate>Sun, 10 Apr 2016 22:10:12 +0000</pubDate>
       
-      <guid>http://localhost:8090/what-i-do/</guid>
+      <guid>https://riselife.org/what-i-do/</guid>
       <description>My Role: I work as a mind-body coach with people in high stress jobs or high stress personal situations. I help the client become more aware of the facts of their condition, create an individualised plan for them based on their concerns and limitations, teach them mind-body techniques and monitor them as their health and wellbeing improves.</description>
     </item>
     
     <item>
       <title>Who I Am</title>
-      <link>http://localhost:8090/about/</link>
+      <link>https://riselife.org/about/</link>
       <pubDate>Fri, 29 Jan 2016 01:53:46 +0000</pubDate>
       
-      <guid>http://localhost:8090/about/</guid>
+      <guid>https://riselife.org/about/</guid>
       <description>Janani Dhinakaran is a Mind-Body Coach based in Cupertino, California. She is also the author of Living Fearlessly: Building inner strength through self-reflection.
  &amp;nbsp;</description>
     </item>
