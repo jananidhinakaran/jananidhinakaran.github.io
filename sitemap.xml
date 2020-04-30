@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -10,7 +10,6 @@
   <url>
     <loc>https://riselife.org/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -19,21 +18,88 @@
   </url>
   
   <url>
+    <loc>https://riselife.org/tags/awe/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://riselife.org/blog/</loc>
     <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/broken-heart-syndrome/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/cardiologist/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://riselife.org/categories/</loc>
     <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/depression/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/divorce/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/giving/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/gratitude/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/gut-health/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://riselife.org/categories/health/</loc>
     <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/heart-health/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/inflammation/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/intuition/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/laughter/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/living-longer/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/mind-body-connection/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
   </url>
   
   <url>
@@ -42,117 +108,28 @@
   </url>
   
   <url>
-    <loc>https://riselife.org/categories/scientific-studies/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/awe/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/broken-heart-syndrome/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/cardiologist/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/depression/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/divorce/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/giving/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/gratitude/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/gut-health/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/heart-health/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/inflammation/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/intuition/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/laughter/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/living-longer/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/mind-body-connection/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://riselife.org/tags/mindbody/</loc>
     <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/optimism/</loc>
     <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/categories/scientific-studies/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/stress/</loc>
     <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/</loc>
+    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
   </url>
   
   <url>
@@ -163,13 +140,11 @@
   <url>
     <loc>https://riselife.org/categories/pranayama/</loc>
     <lastmod>2017-05-12T18:15:36+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/categories/yoga/</loc>
     <lastmod>2017-05-12T18:15:36+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -178,15 +153,38 @@
   </url>
   
   <url>
+    <loc>https://riselife.org/tags/candle/</loc>
+    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/concentration/</loc>
+    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/gaze/</loc>
+    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://riselife.org/tags/meditation/</loc>
     <lastmod>2017-05-05T17:56:57+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/psychological-illness/</loc>
+    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/tratka/</loc>
+    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/tr%C4%81%E1%B9%ADaka/</loc>
     <lastmod>2017-05-05T17:56:57+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -195,50 +193,68 @@
   </url>
   
   <url>
-    <loc>https://riselife.org/tags/candle/</loc>
-    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/concentration/</loc>
-    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/gaze/</loc>
-    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/psychological-illness/</loc>
-    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/tratka/</loc>
-    <lastmod>2017-05-05T17:56:57+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://riselife.org/blog/2016-07-23-shortcomings-of-the-western-medical-system/</loc>
     <lastmod>2016-07-23T06:47:11+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://riselife.org/tags/alternative-nostril-breathing/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/belly-breathing/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/blood-pressure/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/breathing-exercises/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/cardiovascular/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/chest-breathing/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/clavicular-breathing/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/diaphragm/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://riselife.org/tags/eeg/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/health/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/heart-rate-variability/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/intercostal-muscles/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
   </url>
   
   <url>
@@ -247,189 +263,153 @@
   </url>
   
   <url>
-    <loc>https://riselife.org/tags/pranayama/</loc>
-    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/alternative-nostril-breathing/</loc>
-    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/belly-breathing/</loc>
-    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/blood-pressure/</loc>
-    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/breathing-exercises/</loc>
-    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/cardiovascular/</loc>
-    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/chest-breathing/</loc>
-    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/clavicular-breathing/</loc>
-    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/diaphragm/</loc>
-    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/heart-rate-variability/</loc>
-    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/intercostal-muscles/</loc>
-    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://riselife.org/tags/kapalabhati/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/kriya/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/lungs/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/metabolism/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/nadi-shuddhi/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/nasika-mudra/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/n%C4%81di-shodhana/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/parasympathetic-nervous-system/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/pranayama/</loc>
+    <lastmod>2016-06-23T00:47:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/residual-volume/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/respiratory/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/respiratory-system/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/sectional-breathing/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/sympathetic-nervous-system/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/tidal-volume/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/total-lung-capacity/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/yogic-breathing/</loc>
     <lastmod>2016-06-23T00:47:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/adhd/</loc>
     <lastmod>2016-05-26T00:28:28+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/anxiety/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/autoimmune/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/binge-eating/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/cardiovascular-disease/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/chronic-pain/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/eating-disorders/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/fibromyalgia/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/hypertension/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://riselife.org/categories/meditation/</loc>
     <lastmod>2016-05-26T00:28:28+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/tags/obesity/</loc>
+    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/ptsd/</loc>
     <lastmod>2016-05-26T00:28:28+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/scientific-studies/</loc>
     <lastmod>2016-05-26T00:28:28+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -438,63 +418,8 @@
   </url>
   
   <url>
-    <loc>https://riselife.org/tags/anxiety/</loc>
-    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/autoimmune/</loc>
-    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/binge-eating/</loc>
-    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/cardiovascular-disease/</loc>
-    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/chronic-pain/</loc>
-    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/eating-disorders/</loc>
-    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/fibromyalgia/</loc>
-    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/hypertension/</loc>
-    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/obesity/</loc>
-    <lastmod>2016-05-26T00:28:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/tags/who/</loc>
+    <loc>https://riselife.org/tags/sickness/</loc>
     <lastmod>2016-05-05T23:12:30+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -503,15 +428,13 @@
   </url>
   
   <url>
-    <loc>https://riselife.org/tags/sickness/</loc>
+    <loc>https://riselife.org/tags/who/</loc>
     <lastmod>2016-05-05T23:12:30+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/world-health-organisation/</loc>
     <lastmod>2016-05-05T23:12:30+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
