@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on riselife.org</title>
@@ -166,24 +166,6 @@
     </item>
     
     <item>
-      <title>Meditation</title>
-      <link>https://riselife.org/tags/meditation/</link>
-      <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
-      
-      <guid>https://riselife.org/tags/meditation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trāṭaka</title>
-      <link>https://riselife.org/tags/tr%C4%81%E1%B9%ADaka/</link>
-      <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
-      
-      <guid>https://riselife.org/tags/tr%C4%81%E1%B9%ADaka/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>candle</title>
       <link>https://riselife.org/tags/candle/</link>
       <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
@@ -211,6 +193,15 @@
     </item>
     
     <item>
+      <title>Meditation</title>
+      <link>https://riselife.org/tags/meditation/</link>
+      <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
+      
+      <guid>https://riselife.org/tags/meditation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>psychological illness</title>
       <link>https://riselife.org/tags/psychological-illness/</link>
       <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
@@ -229,29 +220,11 @@
     </item>
     
     <item>
-      <title>EEG</title>
-      <link>https://riselife.org/tags/eeg/</link>
-      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      <title>Trāṭaka</title>
+      <link>https://riselife.org/tags/tr%C4%81%E1%B9%ADaka/</link>
+      <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
       
-      <guid>https://riselife.org/tags/eeg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Health</title>
-      <link>https://riselife.org/tags/health/</link>
-      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
-      
-      <guid>https://riselife.org/tags/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pranayama</title>
-      <link>https://riselife.org/tags/pranayama/</link>
-      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
-      
-      <guid>https://riselife.org/tags/pranayama/</guid>
+      <guid>https://riselife.org/tags/tr%C4%81%E1%B9%ADaka/</guid>
       <description></description>
     </item>
     
@@ -324,6 +297,24 @@
       <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
       
       <guid>https://riselife.org/tags/diaphragm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG</title>
+      <link>https://riselife.org/tags/eeg/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>https://riselife.org/tags/eeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>https://riselife.org/tags/health/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>https://riselife.org/tags/health/</guid>
       <description></description>
     </item>
     
@@ -418,6 +409,15 @@
     </item>
     
     <item>
+      <title>Pranayama</title>
+      <link>https://riselife.org/tags/pranayama/</link>
+      <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
+      
+      <guid>https://riselife.org/tags/pranayama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>residual volume</title>
       <link>https://riselife.org/tags/residual-volume/</link>
       <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
@@ -495,24 +495,6 @@
       <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
       
       <guid>https://riselife.org/tags/adhd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PTSD</title>
-      <link>https://riselife.org/tags/ptsd/</link>
-      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
-      
-      <guid>https://riselife.org/tags/ptsd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scientific studies</title>
-      <link>https://riselife.org/tags/scientific-studies/</link>
-      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
-      
-      <guid>https://riselife.org/tags/scientific-studies/</guid>
       <description></description>
     </item>
     
@@ -598,11 +580,20 @@
     </item>
     
     <item>
-      <title>WHO</title>
-      <link>https://riselife.org/tags/who/</link>
-      <pubDate>Thu, 05 May 2016 23:12:30 +0000</pubDate>
+      <title>PTSD</title>
+      <link>https://riselife.org/tags/ptsd/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
       
-      <guid>https://riselife.org/tags/who/</guid>
+      <guid>https://riselife.org/tags/ptsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific studies</title>
+      <link>https://riselife.org/tags/scientific-studies/</link>
+      <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
+      
+      <guid>https://riselife.org/tags/scientific-studies/</guid>
       <description></description>
     </item>
     
@@ -612,6 +603,15 @@
       <pubDate>Thu, 05 May 2016 23:12:30 +0000</pubDate>
       
       <guid>https://riselife.org/tags/sickness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WHO</title>
+      <link>https://riselife.org/tags/who/</link>
+      <pubDate>Thu, 05 May 2016 23:12:30 +0000</pubDate>
+      
+      <guid>https://riselife.org/tags/who/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>riselife.org</title>
@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Janani Dhinakaran - All rights reserved</copyright>
-    <lastBuildDate>Sat, 24 Jun 2017 09:51:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://riselife.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Free Consultation</title>
+      <link>https://riselife.org/free-consultation/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riselife.org/free-consultation/</guid>
+      <description>I offer one free consultation (over video or phone) to understand how we could work together.
+Please contact me at janani@riselife.org to setup an appointment.</description>
+    </item>
     
     <item>
       <title>Talks and Workshops</title>
@@ -18,7 +28,9 @@
       <pubDate>Sat, 24 Jun 2017 09:51:04 +0000</pubDate>
       
       <guid>https://riselife.org/talks-and-workshops/</guid>
-      <description>I give talks to companies that are interested in increasing the wellness and productivity of their employees. I am also invited to health business establishments to engage their client base in techniques and information which can add to their health.</description>
+      <description>I give talks and conduct workshops about preventive health at companies and gatherings.
+To book an engagement, please contact me at janani@riselife.org.
+ </description>
     </item>
     
     <item>
@@ -46,7 +58,6 @@
       
       <guid>https://riselife.org/publications/</guid>
       <description>https://www.themindfulword.org/2017/breathe-live-yoga-practice/
-&amp;nbsp;
 Living Fearlessly: Building inner strength through self-reflection</description>
     </item>
     
@@ -56,7 +67,7 @@ Living Fearlessly: Building inner strength through self-reflection</description>
       <pubDate>Fri, 05 May 2017 17:56:57 +0000</pubDate>
       
       <guid>https://riselife.org/blog/2017-05-05-trataka/</guid>
-      <description>Meditation is becoming very popular nowadays but it is mainly mindfulness which is getting a lot of the attention. Trāṭaka is a less known type of meditation which appears in stories such as &amp;#8216;The Monk who Sold his Ferrari&amp;#8217; by Rabin Sharma and &amp;#8216;The Wonderful Story of Henry Sugar&amp;#8217; by Roald Dahl.</description>
+      <description>Meditation is becoming very popular nowadays but it is mainly mindfulness which is getting a lot of the attention. Trāṭaka is a less known type of meditation which appears in stories such as ‘The Monk who Sold his Ferrari’ by Rabin Sharma and ‘The Wonderful Story of Henry Sugar’ by Roald Dahl.</description>
     </item>
     
     <item>
@@ -65,7 +76,7 @@ Living Fearlessly: Building inner strength through self-reflection</description>
       <pubDate>Sat, 23 Jul 2016 06:47:11 +0000</pubDate>
       
       <guid>https://riselife.org/blog/2016-07-23-shortcomings-of-the-western-medical-system/</guid>
-      <description>Western medicine has done wonders for humanity. It plays a very important role in saving lives in emergencies, uses the best technology available to diagnose people&amp;#8217;s health issues and bases much of it&amp;#8217;s progress on medical and scientific research.</description>
+      <description> </description>
     </item>
     
     <item>
@@ -74,7 +85,8 @@ Living Fearlessly: Building inner strength through self-reflection</description>
       <pubDate>Thu, 23 Jun 2016 00:47:49 +0000</pubDate>
       
       <guid>https://riselife.org/blog/2016-06-23-introduction-to-pranayama/</guid>
-      <description>Prana can be translated to mean breath, though in subtle terms it is also associated with &amp;#8216;life force&amp;#8217;, &amp;#8216;vital energy&amp;#8217;. Ayama means control. Together, Pranayama means control of breath.</description>
+      <description>.
+Belly Breathing Chest Breathing Slide your interlaced fingers upwards to the centre of your chest Breathe slowly and fully into your chest, keeping your belly as uninvolved as possible.</description>
     </item>
     
     <item>
@@ -83,7 +95,7 @@ Living Fearlessly: Building inner strength through self-reflection</description>
       <pubDate>Thu, 26 May 2016 00:28:28 +0000</pubDate>
       
       <guid>https://riselife.org/blog/2016-05-26-the-benefits-of-meditation/</guid>
-      <description>The claim that meditation is good for you and can help improve or enhance one&amp;#8217;s mental and physical health is quite a remarkable claim. How can sitting still and paying attention to one&amp;#8217;s breath have such an enormous impact on so many conditions we suffer from?</description>
+      <description>&amp;lt;div class=&amp;quot;gs_citr&amp;quot;&amp;gt; &amp;lt;div id=&amp;quot;gs_cit1&amp;quot; class=&amp;quot;gs_citr&amp;quot;&amp;gt; Kabat-Zinn, J. (1982). An outpatient program in behavioral medicine for chronic pain patients based on the practice of mindfulness meditation: Theoretical considerations and preliminary results.</description>
     </item>
     
     <item>
@@ -92,7 +104,7 @@ Living Fearlessly: Building inner strength through self-reflection</description>
       <pubDate>Thu, 05 May 2016 23:12:30 +0000</pubDate>
       
       <guid>https://riselife.org/blog/2016-05-05-what-does-it-mean-to-be-healthy/</guid>
-      <description>When I ask people asked what they think it means to be healthy, I often get responses like: &amp;#8220;It&amp;#8217;s when you&amp;#8217;re not sick&amp;#8221; &amp;#8220;To be fit&amp;#8221; &amp;#8220;When all your parts are working properly&amp;#8221; These definitions seem focused on one&amp;#8217;s physical body and see health as a state in which going to a doctor is not necessary.</description>
+      <description></description>
     </item>
     
     <item>
@@ -101,7 +113,7 @@ Living Fearlessly: Building inner strength through self-reflection</description>
       <pubDate>Sun, 10 Apr 2016 23:32:57 +0000</pubDate>
       
       <guid>https://riselife.org/testimonials/</guid>
-      <description>&amp;#8220;Thank you, Janani! The breathing exercises you taught me really helped me stay calm during my maths exam. I didn&amp;#8217;t go blank as I always do.</description>
+      <description>    </description>
     </item>
     
     <item>
@@ -111,8 +123,8 @@ Living Fearlessly: Building inner strength through self-reflection</description>
       
       <guid>https://riselife.org/what-i-do/</guid>
       <description>Wellness Speaker
-I speak about Preventive Health and conduct workshops at
- Companies Schools Libraries Community Centers Retirement Communities Churches, Temples and other religious centers Private parties/gatherings  Some examples of topics include</description>
+I speak about Preventive Health and conduct workshops (both online and in-person) at
+ Companies Schools Libraries Religious &amp;amp; Community Centers Retirement Communities Private parties/gatherings  Some examples of topics include</description>
     </item>
     
     <item>
@@ -121,8 +133,7 @@ I speak about Preventive Health and conduct workshops at
       <pubDate>Fri, 29 Jan 2016 01:53:46 +0000</pubDate>
       
       <guid>https://riselife.org/about/</guid>
-      <description>Janani Dhinakaran is a Mind-Body Coach based in Cupertino, California. She is also the author of Living Fearlessly: Building inner strength through self-reflection.
- &amp;nbsp;</description>
+      <description>  YMCA’s Diabetes Prevention Program YMCA’s StressLess Club Qigong Yoga Meditation Brain Club Lifestyle changes Self-hypnosis Expression arts therapy including writing, music, drama and art Compassionate listening Reiki and Moto-ki  </description>
     </item>
     
   </channel>
