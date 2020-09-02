@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stress on riselife.org</title>
+    <link>https://riselife.org/categories/stress/</link>
+    <description>Recent content in Stress on riselife.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Janani Dhinakaran - All rights reserved</copyright>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://riselife.org/categories/stress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interview with Shweta Angne</title>
+      <link>https://riselife.org/blog/2020-07-07-interview-shweta/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riselife.org/blog/2020-07-07-interview-shweta/</guid>
+      <description>I was interviewed by Shweta Angne for her Summer Speaker series to talk about brain health, stress management and Qigong.   </description>
+    </item>
+    
+  </channel>
+</rss>
