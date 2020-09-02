@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Janani Dhinakaran - All rights reserved</copyright>
-    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://riselife.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Sarcoid Uveitis Program</title>
+      <link>https://riselife.org/sarcoid/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riselife.org/sarcoid/</guid>
+      <description>I help people with Sarcoid Uveitis reduce their inflammation naturally so they can see better, lose weight, reduce their dependence on dangerous medication and lead a better quality of life.</description>
+    </item>
+    
+    <item>
+      <title>Interview with Shweta Angne</title>
+      <link>https://riselife.org/blog/2020-07-07-interview-shweta/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riselife.org/blog/2020-07-07-interview-shweta/</guid>
+      <description>I was interviewed by Shweta Angne for her Summer Speaker series to talk about brain health, stress management and Qigong.   </description>
+    </item>
     
     <item>
       <title>Free Consultation</title>
@@ -116,18 +134,17 @@ Living Fearlessly: Building inner strength through self-reflection</description>
     </item>
     
     <item>
-      <title>What I Do</title>
-      <link>https://riselife.org/what-i-do/</link>
+      <title>Services</title>
+      <link>https://riselife.org/services/</link>
       <pubDate>Sun, 10 Apr 2016 22:10:12 +0000</pubDate>
       
-      <guid>https://riselife.org/what-i-do/</guid>
-      <description>Wellness Speaker
-I speak about Preventive Health and conduct workshops (both online and in-person) at
- Companies Schools Libraries Religious &amp;amp; Community Centers Retirement Communities Private parties/gatherings  Some examples of topics include</description>
+      <guid>https://riselife.org/services/</guid>
+      <description>Health Coach
+I work one-on-one with clients from around the world on their health concerns. As a Health Coach I provide information, exercises, support and accountability in creating sustainable lifestyle changes.</description>
     </item>
     
     <item>
-      <title>Who I Am</title>
+      <title>About Me</title>
       <link>https://riselife.org/about/</link>
       <pubDate>Fri, 29 Jan 2016 01:53:46 +0000</pubDate>
       

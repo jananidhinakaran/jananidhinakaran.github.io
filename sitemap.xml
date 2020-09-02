@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://riselife.org/free-consultation/</loc>
-    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+    <loc>https://riselife.org/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://riselife.org/</loc>
+    <loc>https://riselife.org/sarcoid/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/blog/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/categories/brain-health/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/categories/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/blog/2020-07-07-interview-shweta/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/categories/qigong/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/categories/stress/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/free-consultation/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,22 +58,12 @@
   </url>
   
   <url>
-    <loc>https://riselife.org/blog/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://riselife.org/tags/broken-heart-syndrome/</loc>
     <lastmod>2017-06-24T06:07:14+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://riselife.org/tags/cardiologist/</loc>
-    <lastmod>2017-06-24T06:07:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riselife.org/categories/</loc>
     <lastmod>2017-06-24T06:07:14+00:00</lastmod>
   </url>
   
@@ -443,7 +468,7 @@
   </url>
   
   <url>
-    <loc>https://riselife.org/what-i-do/</loc>
+    <loc>https://riselife.org/services/</loc>
     <lastmod>2016-04-10T22:10:12+00:00</lastmod>
   </url>
   

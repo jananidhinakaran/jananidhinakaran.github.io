@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Janani Dhinakaran - All rights reserved</copyright>
-    <lastBuildDate>Sat, 24 Jun 2017 06:07:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://riselife.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Brain Health</title>
+      <link>https://riselife.org/categories/brain-health/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riselife.org/categories/brain-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qigong</title>
+      <link>https://riselife.org/categories/qigong/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riselife.org/categories/qigong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress</title>
+      <link>https://riselife.org/categories/stress/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riselife.org/categories/stress/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Health</title>
