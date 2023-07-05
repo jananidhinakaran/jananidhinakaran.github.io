@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://riselife.org/books/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/books/resources/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://riselife.org/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -13,7 +23,22 @@
   </url>
   
   <url>
+    <loc>https://riselife.org/categories/autoimmune/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://riselife.org/blog/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/categories/books/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riselife.org/books/list/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on riselife.org</title>
+    <link>https://riselife.org/categories/books/</link>
+    <description>Recent content in Books on riselife.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Janani Dhinakaran - All rights reserved</copyright>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://riselife.org/categories/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Books</title>
+      <link>https://riselife.org/books/list/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riselife.org/books/list/</guid>
+      <description>My latest book is out! You can buy them at the following places:
+ Amazon (India, ebook) NotionPress paperback Pothi paperback Amazon (US, ebook and paperback) Amazon (UK, ebook and paperback) Amazon (Germany, ebook and paperback) Amazon (Australia, ebook and paperback) Amazon (Canada, ebook and paperback) Amazon (Netherlands, ebook and paperback) Amazon (Poland, ebook and paperback)  Book Resources</description>
+    </item>
+    
+  </channel>
+</rss>
